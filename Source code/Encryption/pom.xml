@@ -8,7 +8,7 @@
   <version>1.0</version>
   <name>Encryption</name>
   <description>Library for encryption</description>
-  <url></url>
+  <url>https://github.com/adriandlph/Java-Encryption</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
