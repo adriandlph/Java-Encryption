@@ -1,2 +1,3 @@
 # Java-Encryption
-Java 21 library that manage basic encryption operations.
+
+Java 21 library that handles basic encryption operations.
